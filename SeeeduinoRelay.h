@@ -44,7 +44,7 @@
 #ifndef SEEEDUINORELAY_H
 #define SEEEDUINORELAY_H
 
-#include "WProgram.h"
+#include "Arduino.h"
 
 // These are the pins that control the relays on the Seeeduino board.  
 // If you are modifying this to work with different relay configurations, 
